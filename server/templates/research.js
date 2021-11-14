@@ -76,7 +76,6 @@ module.exports = ({ title, author, content }) => {
              display: block;
              text-align: center;
              }
-             }
           </style>
        </head>
        <body>
