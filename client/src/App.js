@@ -17,6 +17,7 @@ class App extends Component {
               borderRadius: "0"
             }}
           >
+            <Logo />
             <Navbar />
           </div>
         </header>

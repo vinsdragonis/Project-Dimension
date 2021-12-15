@@ -22,16 +22,7 @@ const EditorComp = () => {
             }}
             placeholder="Enter title"
             type="tex"
-          >
-          </input>
-          <input className='pa2 w-25 center'
-            style={{
-              borderRadius: "5px"
-            }}
-            placeholder="Enter author name"
-            type="tex"
-          >
-          </input>
+          />
           <button className='pa2 br3 grow' style={{ margin: "5px" }}>GO</button>
         </div>
       </div>
