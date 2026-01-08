@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^2.2.1",
+    "body-parser": "^2.2.2",
     "connect-mongo": "^6.0.0",
     "cors": "^2.8.5",
     "express": "^5.2.1",
